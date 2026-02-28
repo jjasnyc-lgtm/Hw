@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="container nav-container">
+    <div class="logo">MyPortfolio</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="page-title">
+  <h1>About Me</h1>
+</section>
+
+<section class="section container two-col">
+  <img src="images/about1.jpg" alt="">
+  <div>
+    <h2>My Story</h2>
+    <p>Passionate designer focused on clean and functional design.</p>
+  </div>
+</section>
+
+<section class="section container two-col reverse">
+  <img src="images/about2.jpg" alt="">
+  <div>
+    <h2>My Mission</h2>
+    <p>Deliver high-quality responsive websites with modern aesthetics.</p>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <p>© 2026 MyPortfolio. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
